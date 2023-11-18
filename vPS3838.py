@@ -2,8 +2,6 @@
 # задача 2: добавить исчезнование матча, но при этом важно учесть начало матча, чтобы исключить исчезновение по этой причине. А еще наверное бывают просто закрытые кэфы
 # задача 3: нужно добавить разницу времени, а не только время появления события
 
-#TODO: add only unique rows
-#TODO: delete markets with .25, .75 and 1H
 #TODO: different percents for different odds
 #TODO: another sports
 #TODO: add odds after 10, 30 and 120 mins
@@ -78,8 +76,9 @@ class OddsTracker:
             #!
             #!
             if 'converted_markets' in market and market['converted_markets'] is not None:
+                sport = market['info']['sport']
                 market_id = market['info']['id']
-                self.match_data[market_id] = {'match': market['info']['match'], 'league': market['info']['league']}
+                self.match_data[market_id] = {'sport': sport, 'match': market['info']['match'], 'league': market['info']['league']}
                 for odds_info in market['converted_markets']:
                     if odds_info['odds'] < 4.5:
                         key = (market_id, odds_info['type'], odds_info['line'])
@@ -95,15 +94,17 @@ class OddsTracker:
                 market_id, market_type, line = key
                 match_info = self.get_match_info(market_id)
                 formatted_drops = [(drop_time.strftime('%Y-%m-%d %H:%M:%S'), old_odds, new_odds) for drop_time, old_odds, new_odds in drops]
-                print(f"Significant drops for {match_info['match']} in {match_info['league']}: {formatted_drops}")
+                #print(f"Significant drops for {match_info['match']} in {match_info['league']}: {formatted_drops}")
                 self.save_drops_to_file(match_info, market_type, line, formatted_drops, 'significant_drops.txt')
 
     def save_drops_to_file(self, match_info, market_type, line, drops, file_path):
+        # здесь название спорта нету
         with open(file_path, 'a') as file:
             for drop in drops:
                 formatted_time, old_odds, new_odds = drop
+                sport = match_info.get('sport', 'Unknown Sport')
                 # Форматируем строку без времени для проверки уникальности
-                drop_info = f"League: {match_info['league']}, Match: {match_info['match']}, Market: {market_type} {line}, Old Odds: {old_odds}, New Odds: {new_odds}"
+                drop_info = f"Sport: {sport}, League: {match_info['league']}, Match: {match_info['match']}, Market: {market_type} {line}, Old Odds: {old_odds}, New Odds: {new_odds}"
 
                 # Проверяем, нужно ли исключить строку на основе значения Market
                 if any(substr in market_type for substr in ['1H']):
@@ -143,11 +144,11 @@ class Ps3838Com:
             # 'Baseball',
             #'Basketball',
             # 'Boxing',
-            # 'E Sports',
-            # 'Football',
+            #'E Sports',
+            #'Football',
             #'Handball',
             #'Hockey',
-            # 'Rugby Union',
+            #'Rugby Union',
             # 'Snooker',
             'Soccer',
             #'Tennis',
