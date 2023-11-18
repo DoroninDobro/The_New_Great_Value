@@ -1,0 +1,10 @@
+requests
+BeautifulSoup4
+lxml
+pydantic
+fuzzywuzzy
+aiohttp
+python-Levenshtein
+nest_asyncio
+aiofiles
+pyyaml
