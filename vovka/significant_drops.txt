@@ -1,4 +1,56 @@
-Sport: Soccer, League: France - Cup, Match: ES Fosseenne-vs-Annecy FC, Market: U 3.5, Old Odds: 1.833, New Odds: 1.617, Time: 2023-11-18 16:56:28
-Sport: Soccer, League: France - Cup, Match: ES Fosseenne-vs-Annecy FC, Market: U 3.0, Old Odds: 2.38, New Odds: 2.03, Time: 2023-11-18 16:56:28
-Sport: Soccer, League: Algeria - Ligue 1, Match: ASO Chlef-vs-ES Setif, Market: U 2.0, Old Odds: 1.961, New Odds: 1.757, Time: 2023-11-18 16:56:28
-Sport: Soccer, League: Switzerland - Promotion League, Match: FC Luzern II-vs-FC Lugano II, Market: H2 1.0, Old Odds: 2.53, New Odds: 2.26, Time: 2023-11-18 16:56:28
+
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: H1 -1.0, Old Odds: 4.38, New Odds: 4.37, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: H1 -0.5, Old Odds: 2.58, New Odds: 2.57, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: H1 0.0, Old Odds: 1.854, New Odds: 1.847, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 3.5, Old Odds: 3.56, New Odds: 3.53, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 3.0, Old Odds: 2.86, New Odds: 2.83, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 2.5, Old Odds: 2.03, New Odds: 2.02, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 2.0, Old Odds: 1.502, New Odds: 1.497, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 1.5, Old Odds: 1.312, New Odds: 1.309, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H2 1.5, Old Odds: 1.268, New Odds: 1.267, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: X 0.0, Old Odds: 3.27, New Odds: 3.26, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H2 1.5, Old Odds: 1.32, New Odds: 1.31, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H2 1.0, Old Odds: 1.485, New Odds: 1.471, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H2 0.5, Old Odds: 1.952, New Odds: 1.934, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H2 0.0, Old Odds: 3.1, New Odds: 3.08, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H1 0.5, Old Odds: 1.258, New Odds: 1.257, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 4.5, Old Odds: 1.12, New Odds: 1.109, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 3.5, Old Odds: 1.335, New Odds: 1.31, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 3.0, Old Odds: 1.487, New Odds: 1.446, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 2.5, Old Odds: 1.892, New Odds: 1.826, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 2.0, Old Odds: 2.76, New Odds: 2.62, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 1.5, Old Odds: 3.63, New Odds: 3.47, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: X 0.0, Old Odds: 3.53, New Odds: 3.47, Time: 2023-11-18 20:33:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: H2 2.5, Old Odds: 1.431, New Odds: 1.427, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: H2 2.0, Old Odds: 1.684, New Odds: 1.68, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: H2 1.0, Old Odds: 3.56, New Odds: 3.55, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: U 4.5, Old Odds: 1.22, New Odds: 1.218, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: U 3.5, Old Odds: 1.574, New Odds: 1.571, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: U 2.5, Old Odds: 2.49, New Odds: 2.48, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: H2 1.0, Old Odds: 1.304, New Odds: 1.297, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: H2 0.5, Old Odds: 1.704, New Odds: 1.694, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: H2 0.0, Old Odds: 2.58, New Odds: 2.55, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: H2 -0.5, Old Odds: 3.68, New Odds: 3.64, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: 2 0.0, Old Odds: 3.73, New Odds: 3.69, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: X 0.0, Old Odds: 3.13, New Odds: 3.11, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: H1 -0.5, Old Odds: 2.91, New Odds: 2.9, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: H2 -0.5, Old Odds: 2.71, New Odds: 2.7, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: O 2.5, Old Odds: 2.52, New Odds: 2.46, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: O 2.0, Old Odds: 1.854, New Odds: 1.806, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: O 1.5, Old Odds: 1.483, New Odds: 1.462, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: O 0.5, Old Odds: 1.11, New Odds: 1.104, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: 2 0.0, Old Odds: 2.73, New Odds: 2.72, Time: 2023-11-18 20:34:13
+Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: 1 0.0, Old Odds: 2.93, New Odds: 2.92, Time: 2023-11-18 20:34:13
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -3.0, Old Odds: 2.21, New Odds: 2.17, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -2.5, Old Odds: 2.07, New Odds: 2.03, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -2.0, Old Odds: 2.03, New Odds: 2.0, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -1.5, Old Odds: 1.99, New Odds: 1.961, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -1.0, Old Odds: 1.943, New Odds: 1.917, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 1.0, Old Odds: 1.854, New Odds: 1.826, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 1.5, Old Odds: 1.819, New Odds: 1.793, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 2.0, Old Odds: 1.787, New Odds: 1.763, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 2.5, Old Odds: 1.769, New Odds: 1.746, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: U 64.0, Old Odds: 1.724, New Odds: 1.719, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: U 61.5, Old Odds: 2.01, New Odds: 2.0, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: U 60.0, Old Odds: 2.2, New Odds: 2.19, Time: 2023-11-18 20:35:05
+Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: 1 0.0, Old Odds: 1.9, New Odds: 1.869, Time: 2023-11-18 20:35:05

@@ -32,8 +32,6 @@ async def main():
         try:
             matches = await ps.get_prematch()
             data = await ps.run(matches)
-
-            print(len(data))
             tracker.update_data(data)
             tracker.check_for_significant_drops()
             tracker.remove_stale_data()

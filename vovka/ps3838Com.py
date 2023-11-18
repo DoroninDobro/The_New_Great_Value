@@ -19,15 +19,15 @@ class Ps3838Com:
     SPECIALS = 'true'
     PRIMARY_ONLY = 'true'
     ALLOWED_SPORTS = [
-            #'Basketball',
-            #'E Sports',
-            #'Football',
-            #'Handball',
-            #'Hockey',
-            #'Rugby Union',
+            #!'Basketball',
+            #!'E Sports',
+            'Football',
+            #!'Handball',
+            #!'Hockey',
+            'Rugby Union',
             'Soccer',
-            #'Tennis',
-            #'Volleyball'
+            #!'Tennis',
+            'Volleyball'
                       ]
 
 
@@ -228,7 +228,7 @@ class Ps3838Com:
             markett[8]['1'][2]
         except KeyError:
             # raise
-            logging.info(f"no market yet")
+            #logging.info(f"no market yet")
             return
         if markett[8]['1'][2] is not None:
             for ii, price in enumerate(markett[8]['1'][2]):
