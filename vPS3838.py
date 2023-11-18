@@ -106,7 +106,9 @@ class OddsTracker:
                 drop_info = f"League: {match_info['league']}, Match: {match_info['match']}, Market: {market_type} {line}, Old Odds: {old_odds}, New Odds: {new_odds}"
 
                 # Проверяем, нужно ли исключить строку на основе значения Market
-                if any(substr in market_type for substr in ['1H', '.25', '.75']):
+                if any(substr in market_type for substr in ['1H']):
+                    continue
+                if any(substr in line for substr in ['.25']) or any(substr in line for substr in ['.75']):
                     continue
 
                 # Проверяем, была ли такая строка уже записана
