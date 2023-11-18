@@ -1,133 +1,12 @@
-# задача 1: сейчас берутся только матчи за сегодня, а надо бы за 24 часа (функция get_prematch)
-# задача 2: добавить исчезнование матча, но при этом важно учесть начало матча, чтобы исключить исчезновение по этой причине. А еще наверное бывают просто закрытые кэфы
-# задача 3: нужно добавить разницу времени, а не только время появления события
-
-#TODO: different percents for different odds
-#TODO: another sports
-#TODO: add odds after 10, 30 and 120 mins
-#TODO: find matches and markets in 1win
-#TODO: check odds for Value
-#TODO: make bets with check odds in basket
-
-
+import asyncio
+from aiohttp import ClientSession, CookieJar
 import logging
 import time
 from datetime import datetime
-import json
-import random
-import sys
-import asyncio
-from aiohttp import ClientSession, CookieJar
-import time
-from datetime import datetime, timedelta
-
-import nest_asyncio
-nest_asyncio.apply()
-
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s,%(msecs)d %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s',
-    datefmt='%Y-%m-%d:%H:%M:%S'
-)
 
 MAIN_LOOP = 1
 limit_time = 12  # limit time in hours
-mk = 1  # Today
-date_ = datetime.today().strftime('%Y-%m-%d')
-
-class OddsHistory:
-    def __init__(self, initial_odds):
-        self.history = [(datetime.now(), initial_odds)]
-
-    def update(self, new_odds):
-        self.history.append((datetime.now(), new_odds))
-
-    def get_significant_drops(self, time_span_minutes, significance_percent):
-        now = datetime.now()
-        significant_drops = []
-        for time, odds in self.history:
-            if now - time <= timedelta(minutes=time_span_minutes):
-                for past_time, past_odds in self.history:
-                    if past_time < time:
-                        if past_odds > odds and ((past_odds - odds) / past_odds) * 100 >= significance_percent:
-                            significant_drops.append((time, past_odds, odds))
-        return significant_drops
-        
-    def is_stale(self, stale_time_hours=1):
-        if not self.history:
-            return True
-        return datetime.now() - self.history[-1][0] > timedelta(hours=stale_time_hours)
-
-
-class OddsTracker:
-    def __init__(self, significance_percent, time_span_minutes):
-        self.odds_data = {}
-        self.match_data = {}
-        self.significance_percent = significance_percent
-        self.time_span_minutes = time_span_minutes
-        self.recorded_drops = set()  # Добавляем множество для хранения уже записанных строк
-
-    def update_data(self, new_data):
-        for market in new_data:
-            # Проверяем, существует ли ключ 'converted_markets' и не равен ли он None
-            #!
-            #!
-            # Тут надо добавить исчезновение кэфов
-            #!
-            #!
-            if 'converted_markets' in market and market['converted_markets'] is not None:
-                sport = market['info']['sport']
-                market_id = market['info']['id']
-                self.match_data[market_id] = {'sport': sport, 'match': market['info']['match'], 'league': market['info']['league']}
-                for odds_info in market['converted_markets']:
-                    if odds_info['odds'] < 4.5:
-                        key = (market_id, odds_info['type'], odds_info['line'])
-                        if key not in self.odds_data:
-                            self.odds_data[key] = OddsHistory(odds_info['odds'])
-                        else:
-                            self.odds_data[key].update(odds_info['odds'])
-                            
-    def check_for_significant_drops(self):
-        for key, history in self.odds_data.items():
-            drops = history.get_significant_drops(self.time_span_minutes, self.significance_percent)
-            if drops:
-                market_id, market_type, line = key
-                match_info = self.get_match_info(market_id)
-                formatted_drops = [(drop_time.strftime('%Y-%m-%d %H:%M:%S'), old_odds, new_odds) for drop_time, old_odds, new_odds in drops]
-                #print(f"Significant drops for {match_info['match']} in {match_info['league']}: {formatted_drops}")
-                self.save_drops_to_file(match_info, market_type, line, formatted_drops, 'significant_drops.txt')
-
-    def save_drops_to_file(self, match_info, market_type, line, drops, file_path):
-        # здесь название спорта нету
-        with open(file_path, 'a') as file:
-            for drop in drops:
-                formatted_time, old_odds, new_odds = drop
-                sport = match_info.get('sport', 'Unknown Sport')
-                # Форматируем строку без времени для проверки уникальности
-                drop_info = f"Sport: {sport}, League: {match_info['league']}, Match: {match_info['match']}, Market: {market_type} {line}, Old Odds: {old_odds}, New Odds: {new_odds}"
-
-                # Проверяем, нужно ли исключить строку на основе значения Market
-                if any(substr in market_type for substr in ['1H']):
-                    continue
-                if any(substr in line for substr in ['.25']) or any(substr in line for substr in ['.75']):
-                    continue
-
-                # Проверяем, была ли такая строка уже записана
-                if drop_info not in self.recorded_drops:
-                    self.recorded_drops.add(drop_info)
-                    file.write(f"{drop_info}, Time: {formatted_time}\n")
-
-
-    def get_match_info(self, market_id):
-            # Возвращаем информацию о матче, используя market_id как ключ
-            return self.match_data.get(market_id, {'match': 'Unknown', 'league': 'Unknown'})
-
-        
-    def remove_stale_data(self):
-        to_remove = [key for key, history in self.odds_data.items() if history.is_stale()]
-        for key in to_remove:
-            del self.odds_data[key]
-
+mk = 1
 
 class Ps3838Com:
 
@@ -140,16 +19,12 @@ class Ps3838Com:
     SPECIALS = 'true'
     PRIMARY_ONLY = 'true'
     ALLOWED_SPORTS = [
-            # 'Badminton',
-            # 'Baseball',
             #'Basketball',
-            # 'Boxing',
             #'E Sports',
             #'Football',
             #'Handball',
             #'Hockey',
             #'Rugby Union',
-            # 'Snooker',
             'Soccer',
             #'Tennis',
             #'Volleyball'
@@ -157,17 +32,24 @@ class Ps3838Com:
 
 
     def __init__(self):
+        self.mk = 1 #сегодня
+        self.date_ = datetime.today().strftime('%Y-%m-%d')
+        self.MAIN_LOOP = 1
+        self.limit_time = 12
         self.cookies_jar = CookieJar(unsafe=True)
         self.cookies_path = 'cache/pinnacle_cookies.txt'
         try:
             self.cookies_jar.load(self.cookies_path)
         except EOFError:
             pass
-        self.session = asyncio.run(self.get_session())
+        self.session = None
 
         self.user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' \
                           ' (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'
 
+    async def setup(self):
+        self.session = await self.get_session()
+        
     async def get_session(self):
         session = ClientSession(cookie_jar=self.cookies_jar)
         return session
@@ -214,6 +96,7 @@ class Ps3838Com:
         self.cookies_jar.save(self.cookies_path)
         await self.check_login()
 
+    # тут мы отправляем собирать матчи прематч 
     async def bound_live(self, sem, session, sport_id):
         prematch = []
         try:
@@ -444,6 +327,7 @@ class Ps3838Com:
         
     async def bound_fetch1(self, sem, sport_id):
         async with sem:
+            date_ = datetime.today().strftime('%Y-%m-%d')
             # api_match_url = f"https://www.ps3838.com/sports-service/sv/compact/" \
             api_match_url = f"https://761gsge.tender88.com/sports-service/sv/compact/" \
                   f"events?_g=1&btg=1&c=&cl=100&d={date_}&ev=&g=&hle=true" \
@@ -488,6 +372,7 @@ class Ps3838Com:
         return responses
 
     async def get_prematch_(self, sem, session, sport_id):
+            date_ = datetime.today().strftime('%Y-%m-%d')
         # async with sem:
         #     url = f"https://www.ps3838.com/sports-service/sv/compact/" \
             url = f"https://761gsge.tender88.com/sports-service/sv/compact/" \
@@ -625,34 +510,3 @@ class Ps3838Com:
         matches_list = [y for x in matches_list for y in x]  # from [[],[[],[],[]],[[],[]]] to [[],[],[],[],[],[],[]]
         logging.info(f"{self.BOOKIE} has {len(matches_list)} matches")
         return matches_list
-
-
-if __name__ == "__main__":
-    ps = Ps3838Com()
-    logging.info(f"Start Pinnacle scraper...")
-    filename = 'cache/Ps3838_cache.json'
-    tracker = OddsTracker(significance_percent=10, time_span_minutes=15)
-
-    while True:
-        try:
-            date_ = datetime.today().strftime('%Y-%m-%d')
-            loopf = asyncio.get_event_loop()
-            future = asyncio.ensure_future(ps.get_prematch())
-            loopf.run_until_complete(future)
-
-            loopf = asyncio.get_event_loop()
-            future = asyncio.ensure_future(ps.run(future.result()))
-            loopf.run_until_complete(future)
-
-            data = future.result()
-            print(len(data))
-            tracker.update_data(data)
-            tracker.check_for_significant_drops()
-            tracker.remove_stale_data()
-            sleep_time = 30
-            #logging.info(f"{sleep_time} seconds sleep.")
-            time.sleep(sleep_time)
-        except Exception as e:
-            raise e
-            logging.error(f"{e}")
-            time.sleep(120)
