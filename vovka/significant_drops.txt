@@ -1,56 +1,1011 @@
-
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: H1 -1.0, Old Odds: 4.38, New Odds: 4.37, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: H1 -0.5, Old Odds: 2.58, New Odds: 2.57, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: H1 0.0, Old Odds: 1.854, New Odds: 1.847, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 3.5, Old Odds: 3.56, New Odds: 3.53, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 3.0, Old Odds: 2.86, New Odds: 2.83, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 2.5, Old Odds: 2.03, New Odds: 2.02, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 2.0, Old Odds: 1.502, New Odds: 1.497, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Israel-vs-Romania, Market: O 1.5, Old Odds: 1.312, New Odds: 1.309, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H2 1.5, Old Odds: 1.268, New Odds: 1.267, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: X 0.0, Old Odds: 3.27, New Odds: 3.26, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H2 1.5, Old Odds: 1.32, New Odds: 1.31, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H2 1.0, Old Odds: 1.485, New Odds: 1.471, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H2 0.5, Old Odds: 1.952, New Odds: 1.934, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H2 0.0, Old Odds: 3.1, New Odds: 3.08, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: H1 0.5, Old Odds: 1.258, New Odds: 1.257, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 4.5, Old Odds: 1.12, New Odds: 1.109, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 3.5, Old Odds: 1.335, New Odds: 1.31, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 3.0, Old Odds: 1.487, New Odds: 1.446, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 2.5, Old Odds: 1.892, New Odds: 1.826, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 2.0, Old Odds: 2.76, New Odds: 2.62, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: U 1.5, Old Odds: 3.63, New Odds: 3.47, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: Spain - Segunda Division, Match: Espanyol-vs-Elche, Market: X 0.0, Old Odds: 3.53, New Odds: 3.47, Time: 2023-11-18 20:33:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: H2 2.5, Old Odds: 1.431, New Odds: 1.427, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: H2 2.0, Old Odds: 1.684, New Odds: 1.68, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: H2 1.0, Old Odds: 3.56, New Odds: 3.55, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: U 4.5, Old Odds: 1.22, New Odds: 1.218, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: U 3.5, Old Odds: 1.574, New Odds: 1.571, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: UEFA - EURO Qualifiers, Match: Switzerland-vs-Kosovo, Market: U 2.5, Old Odds: 2.49, New Odds: 2.48, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: H2 1.0, Old Odds: 1.304, New Odds: 1.297, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: H2 0.5, Old Odds: 1.704, New Odds: 1.694, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: H2 0.0, Old Odds: 2.58, New Odds: 2.55, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: H2 -0.5, Old Odds: 3.68, New Odds: 3.64, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: 2 0.0, Old Odds: 3.73, New Odds: 3.69, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Mirassol-vs-Atletico Goianiense, Market: X 0.0, Old Odds: 3.13, New Odds: 3.11, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: H1 -0.5, Old Odds: 2.91, New Odds: 2.9, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: H2 -0.5, Old Odds: 2.71, New Odds: 2.7, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: O 2.5, Old Odds: 2.52, New Odds: 2.46, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: O 2.0, Old Odds: 1.854, New Odds: 1.806, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: O 1.5, Old Odds: 1.483, New Odds: 1.462, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: O 0.5, Old Odds: 1.11, New Odds: 1.104, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: 2 0.0, Old Odds: 2.73, New Odds: 2.72, Time: 2023-11-18 20:34:13
-Sport: Soccer, League: Brazil - Serie B, Match: Vitoria BA-vs-Sport Recife, Market: 1 0.0, Old Odds: 2.93, New Odds: 2.92, Time: 2023-11-18 20:34:13
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -3.0, Old Odds: 2.21, New Odds: 2.17, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -2.5, Old Odds: 2.07, New Odds: 2.03, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -2.0, Old Odds: 2.03, New Odds: 2.0, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -1.5, Old Odds: 1.99, New Odds: 1.961, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 -1.0, Old Odds: 1.943, New Odds: 1.917, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 1.0, Old Odds: 1.854, New Odds: 1.826, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 1.5, Old Odds: 1.819, New Odds: 1.793, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 2.0, Old Odds: 1.787, New Odds: 1.763, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: H1 2.5, Old Odds: 1.769, New Odds: 1.746, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: U 64.0, Old Odds: 1.724, New Odds: 1.719, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: U 61.5, Old Odds: 2.01, New Odds: 2.0, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: U 60.0, Old Odds: 2.2, New Odds: 2.19, Time: 2023-11-18 20:35:05
-Sport: Football, League: NCAA, Match: Oregon State-vs-Washington, Market: 1 0.0, Old Odds: 1.9, New Odds: 1.869, Time: 2023-11-18 20:35:05
+Sport: Soccer, League: Guatemala - Liga Nacional, Match: CSD Municipal-vs-Comunicaciones FC, Market: U 2.0, Old Odds: 2.67, New Odds: 2.38, Time: 2023-11-18 21:36:42
+Sport: Soccer, League: Guatemala - Liga Nacional, Match: CSD Municipal-vs-Comunicaciones FC, Market: U 2.0, Old Odds: 2.66, New Odds: 2.38, Time: 2023-11-18 21:36:42
+Sport: Soccer, League: Guatemala - Liga Nacional, Match: CSD Municipal-vs-Comunicaciones FC, Market: U 2.5, Old Odds: 1.869, New Odds: 1.657, Time: 2023-11-18 21:37:04
+Sport: Soccer, League: Guatemala - Liga Nacional, Match: CSD Municipal-vs-Comunicaciones FC, Market: U 2.0, Old Odds: 2.67, New Odds: 2.25, Time: 2023-11-18 21:37:04
+Sport: Soccer, League: Guatemala - Liga Nacional, Match: CSD Municipal-vs-Comunicaciones FC, Market: U 2.0, Old Odds: 2.66, New Odds: 2.25, Time: 2023-11-18 21:37:04
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H2 0.0, Old Odds: 3.19, New Odds: 2.85, Time: 2023-11-18 21:41:03
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H2 0.0, Old Odds: 3.17, New Odds: 2.85, Time: 2023-11-18 21:41:03
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H2 0.0, Old Odds: 3.19, New Odds: 2.84, Time: 2023-11-18 21:41:24
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H2 0.0, Old Odds: 3.17, New Odds: 2.84, Time: 2023-11-18 21:41:24
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H1 -1.0, Old Odds: 3.44, New Odds: 3.08, Time: 2023-11-18 21:43:54
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H1 -1.0, Old Odds: 3.45, New Odds: 3.08, Time: 2023-11-18 21:43:54
+Sport: Soccer, League: Brazil - Serie A, Match: Fortaleza-vs-Cruzeiro, Market: H1 -1.0, Old Odds: 3.45, New Odds: 3.1, Time: 2023-11-18 21:44:15
+Sport: Soccer, League: Mexico - Liga Premier, Match: Escorpiones Fc-vs-Irapuato, Market: U 3.0, Old Odds: 1.746, New Odds: 1.469, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga Premier, Match: Escorpiones Fc-vs-Irapuato, Market: U 2.5, Old Odds: 2.21, New Odds: 1.877, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga Premier, Match: Halcones de Zapopan-vs-Yalmakan, Market: O 2.5, Old Odds: 2.01, New Odds: 1.806, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga Premier, Match: Halcones de Zapopan-vs-Yalmakan, Market: O 2.0, Old Odds: 1.515, New Odds: 1.349, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga Premier Serie B, Match: Artesanos Metepec FC-vs-Santiago FC, Market: U 2.0, Old Odds: 2.37, New Odds: 2.11, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: CS Atletico Tulancingo-vs-Club Atletico Toltecas FC, Market: H1 -1.0, Old Odds: 2.4, New Odds: 1.925, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: CS Atletico Tulancingo-vs-Club Atletico Toltecas FC, Market: H1 -0.5, Old Odds: 1.826, New Odds: 1.546, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: CS Atletico Tulancingo-vs-Club Atletico Toltecas FC, Market: O 3.0, Old Odds: 2.06, New Odds: 1.694, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: CS Atletico Tulancingo-vs-Club Atletico Toltecas FC, Market: 1 0.0, Old Odds: 1.819, New Odds: 1.564, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: Cilesi FC-vs-Guerreros DD, Market: H2 0.0, Old Odds: 1.884, New Odds: 1.689, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: Cilesi FC-vs-Guerreros DD, Market: O 2.5, Old Odds: 1.97, New Odds: 1.757, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: Cilesi FC-vs-Guerreros DD, Market: O 2.5, Old Odds: 2.04, New Odds: 1.757, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: Cilesi FC-vs-Guerreros DD, Market: 2 0.0, Old Odds: 2.68, New Odds: 2.4, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: Tigres de Alica FC-vs-Moncaro FC, Market: O 2.5, Old Odds: 2.02, New Odds: 1.714, Time: 2023-11-18 22:36:35
+Sport: Soccer, League: Mexico - Liga TDP, Match: Cilesi FC-vs-Guerreros DD, Market: H2 0.0, Old Odds: 1.884, New Odds: 1.675, Time: 2023-11-18 22:37:17
+Sport: Soccer, League: Mexico - Liga TDP, Match: Cilesi FC-vs-Guerreros DD, Market: 2 0.0, Old Odds: 2.68, New Odds: 2.38, Time: 2023-11-18 22:37:17
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.5, Old Odds: 1.826, New Odds: 1.636, Time: 2023-11-18 23:19:04
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.0, Old Odds: 2.6, New Odds: 2.22, Time: 2023-11-18 23:19:04
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.0, Old Odds: 2.56, New Odds: 2.22, Time: 2023-11-18 23:19:04
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 2 0.0, Old Odds: 3.47, New Odds: 2.99, Time: 2023-11-18 23:19:04
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 2 0.0, Old Odds: 3.44, New Odds: 2.99, Time: 2023-11-18 23:19:04
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.5, Old Odds: 1.826, New Odds: 1.617, Time: 2023-11-18 23:19:26
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.5, Old Odds: 1.8, New Odds: 1.617, Time: 2023-11-18 23:19:26
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.0, Old Odds: 2.6, New Odds: 2.18, Time: 2023-11-18 23:19:26
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.0, Old Odds: 2.56, New Odds: 2.18, Time: 2023-11-18 23:19:26
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.0, Old Odds: 2.45, New Odds: 2.18, Time: 2023-11-18 23:19:26
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 2 0.0, Old Odds: 3.47, New Odds: 2.93, Time: 2023-11-18 23:19:26
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 2 0.0, Old Odds: 3.44, New Odds: 2.93, Time: 2023-11-18 23:19:26
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 2 0.0, Old Odds: 3.26, New Odds: 2.93, Time: 2023-11-18 23:19:26
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.0, Old Odds: 2.6, New Odds: 2.25, Time: 2023-11-18 23:19:48
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H2 0.0, Old Odds: 2.56, New Odds: 2.25, Time: 2023-11-18 23:19:48
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 2 0.0, Old Odds: 3.47, New Odds: 3.02, Time: 2023-11-18 23:19:48
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 2 0.0, Old Odds: 3.44, New Odds: 3.02, Time: 2023-11-18 23:19:48
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 2.03, Time: 2023-11-18 23:24:03
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.632, Time: 2023-11-18 23:24:03
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.645, Time: 2023-11-18 23:24:03
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: O 4.0, Old Odds: 2.48, New Odds: 2.22, Time: 2023-11-18 23:24:24
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 1.98, Time: 2023-11-18 23:25:07
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.595, Time: 2023-11-18 23:25:07
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.24, Time: 2023-11-18 23:25:07
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.5, New Odds: 2.24, Time: 2023-11-18 23:25:07
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.99, New Odds: 1.781, Time: 2023-11-18 23:25:07
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.617, Time: 2023-11-18 23:25:07
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 2.02, Time: 2023-11-18 23:25:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.621, Time: 2023-11-18 23:25:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.04, Time: 2023-11-18 23:25:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.5, New Odds: 2.04, Time: 2023-11-18 23:25:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.99, New Odds: 1.662, Time: 2023-11-18 23:25:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.952, New Odds: 1.662, Time: 2023-11-18 23:25:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.641, Time: 2023-11-18 23:26:12
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.11, Time: 2023-11-18 23:26:12
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.5, New Odds: 2.11, Time: 2023-11-18 23:26:12
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.99, New Odds: 1.699, Time: 2023-11-18 23:26:12
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.952, New Odds: 1.699, Time: 2023-11-18 23:26:12
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.653, Time: 2023-11-18 23:26:12
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 2.04, Time: 2023-11-18 23:26:33
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.653, Time: 2023-11-18 23:26:33
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.13, Time: 2023-11-18 23:26:33
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.5, New Odds: 2.13, Time: 2023-11-18 23:26:33
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.99, New Odds: 1.714, Time: 2023-11-18 23:26:33
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.952, New Odds: 1.714, Time: 2023-11-18 23:26:33
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.662, Time: 2023-11-18 23:26:33
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H2 1.0, Old Odds: 1.826, New Odds: 1.641, Time: 2023-11-18 23:27:16
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.18, Time: 2023-11-18 23:27:16
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.5, New Odds: 2.18, Time: 2023-11-18 23:27:16
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.99, New Odds: 1.74, Time: 2023-11-18 23:27:16
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.952, New Odds: 1.74, Time: 2023-11-18 23:27:16
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 2 0.0, Old Odds: 4.21, New Odds: 3.57, Time: 2023-11-18 23:27:16
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 2 0.0, Old Odds: 4.23, New Odds: 3.57, Time: 2023-11-18 23:27:16
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 2 0.0, Old Odds: 3.97, New Odds: 3.57, Time: 2023-11-18 23:27:16
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H2 1.0, Old Odds: 1.826, New Odds: 1.625, Time: 2023-11-18 23:28:21
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H2 0.5, Old Odds: 2.26, New Odds: 2.03, Time: 2023-11-18 23:28:21
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.28, Time: 2023-11-18 23:28:21
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 2 0.0, Old Odds: 4.21, New Odds: 3.56, Time: 2023-11-18 23:28:21
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 2 0.0, Old Odds: 4.23, New Odds: 3.56, Time: 2023-11-18 23:28:21
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 2 0.0, Old Odds: 3.97, New Odds: 3.56, Time: 2023-11-18 23:28:21
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H2 1.0, Old Odds: 1.826, New Odds: 1.621, Time: 2023-11-18 23:30:30
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.31, Time: 2023-11-18 23:30:30
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 4.0, Old Odds: 1.751, New Odds: 1.571, Time: 2023-11-18 23:30:30
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H2 1.0, Old Odds: 1.826, New Odds: 1.617, Time: 2023-11-18 23:30:51
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H2 1.0, Old Odds: 1.8, New Odds: 1.617, Time: 2023-11-18 23:30:51
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H2 0.5, Old Odds: 2.26, New Odds: 2.02, Time: 2023-11-18 23:30:51
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 4.0, Old Odds: 1.751, New Odds: 1.552, Time: 2023-11-18 23:30:51
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 3.5, Old Odds: 2.18, New Odds: 1.952, Time: 2023-11-18 23:30:51
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.25, New Odds: 2.02, Time: 2023-11-18 23:31:34
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.26, New Odds: 2.02, Time: 2023-11-18 23:31:34
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.636, Time: 2023-11-18 23:31:34
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.33, Time: 2023-11-18 23:31:34
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 4.0, Old Odds: 1.751, New Odds: 1.561, Time: 2023-11-18 23:31:34
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 3.5, Old Odds: 2.18, New Odds: 1.961, Time: 2023-11-18 23:31:34
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.649, Time: 2023-11-18 23:31:34
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.26, New Odds: 2.03, Time: 2023-11-18 23:32:17
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 4.0, Old Odds: 1.751, New Odds: 1.549, Time: 2023-11-18 23:32:17
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 3.5, Old Odds: 2.18, New Odds: 1.943, Time: 2023-11-18 23:32:17
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 2.06, Time: 2023-11-18 23:32:59
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.657, Time: 2023-11-18 23:32:59
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 4.0, Old Odds: 1.751, New Odds: 1.543, Time: 2023-11-18 23:32:59
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 3.5, Old Odds: 2.18, New Odds: 1.934, Time: 2023-11-18 23:32:59
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.671, Time: 2023-11-18 23:32:59
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.5, Old Odds: 1.613, New Odds: 1.45, Time: 2023-11-19 00:00:35
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.33, New Odds: 2.07, Time: 2023-11-19 00:00:35
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.917, New Odds: 1.636, Time: 2023-11-19 00:01:18
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.909, New Odds: 1.636, Time: 2023-11-19 00:01:18
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 3.5, Old Odds: 2.33, New Odds: 2.03, Time: 2023-11-19 00:01:18
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 3.5, Old Odds: 2.32, New Odds: 2.03, Time: 2023-11-19 00:01:18
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.952, New Odds: 1.671, Time: 2023-11-19 00:01:18
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.33, New Odds: 2.04, Time: 2023-11-19 00:01:18
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.917, New Odds: 1.662, Time: 2023-11-19 00:01:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.909, New Odds: 1.662, Time: 2023-11-19 00:01:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 3.5, Old Odds: 2.33, New Odds: 2.07, Time: 2023-11-19 00:01:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 3.5, Old Odds: 2.32, New Odds: 2.07, Time: 2023-11-19 00:01:39
+Sport: Soccer, League: Mexico - Liga Premier, Match: Racing FC Porto Palmeiras-vs-Aguacateros de Periban FC, Market: U 3.0, Old Odds: 1.684, New Odds: 1.469, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: Mexico - Liga Premier, Match: Racing FC Porto Palmeiras-vs-Aguacateros de Periban FC, Market: U 2.5, Old Odds: 2.15, New Odds: 1.892, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.917, New Odds: 1.684, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.909, New Odds: 1.684, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 3.5, Old Odds: 2.33, New Odds: 2.09, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: H1 -0.5, Old Odds: 2.04, New Odds: 1.813, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: H1 0.0, Old Odds: 1.591, New Odds: 1.396, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: 1 0.0, Old Odds: 2.06, New Odds: 1.813, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Western Springs-vs-Waterside Karori, Market: H2 1.0, Old Odds: 1.862, New Odds: 1.617, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Western Springs-vs-Waterside Karori, Market: H2 0.5, Old Odds: 2.27, New Odds: 2.03, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Western Springs-vs-Waterside Karori, Market: 2 0.0, Old Odds: 4.27, New Odds: 3.68, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.84, New Odds: 1.632, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.632, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.632, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.4, New Odds: 2.06, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.06, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 3.5, Old Odds: 2.04, New Odds: 1.74, Time: 2023-11-19 00:02:01
+Sport: Soccer, League: Mexico - Liga Premier, Match: Racing FC Porto Palmeiras-vs-Aguacateros de Periban FC, Market: U 3.0, Old Odds: 1.684, New Odds: 1.495, Time: 2023-11-19 00:02:23
+Sport: Soccer, League: Mexico - Liga Premier, Match: Racing FC Porto Palmeiras-vs-Aguacateros de Periban FC, Market: U 2.5, Old Odds: 2.15, New Odds: 1.925, Time: 2023-11-19 00:02:23
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.84, New Odds: 1.649, Time: 2023-11-19 00:02:23
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.649, Time: 2023-11-19 00:02:23
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.649, Time: 2023-11-19 00:02:23
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.4, New Odds: 2.09, Time: 2023-11-19 00:02:23
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.09, Time: 2023-11-19 00:02:23
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 3.5, Old Odds: 2.04, New Odds: 1.751, Time: 2023-11-19 00:02:23
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.917, New Odds: 1.699, Time: 2023-11-19 00:02:44
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.909, New Odds: 1.699, Time: 2023-11-19 00:02:44
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.662, Time: 2023-11-19 00:02:44
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.662, Time: 2023-11-19 00:02:44
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.4, New Odds: 2.11, Time: 2023-11-19 00:02:44
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.11, Time: 2023-11-19 00:02:44
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 3.5, Old Odds: 2.04, New Odds: 1.781, Time: 2023-11-19 00:02:44
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.671, Time: 2023-11-19 00:03:06
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.671, Time: 2023-11-19 00:03:06
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.4, New Odds: 2.13, Time: 2023-11-19 00:03:06
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.13, Time: 2023-11-19 00:03:06
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.436, Time: 2023-11-19 00:03:06
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 3.5, Old Odds: 2.04, New Odds: 1.813, Time: 2023-11-19 00:03:06
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.675, Time: 2023-11-19 00:03:29
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.675, Time: 2023-11-19 00:03:29
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.4, New Odds: 2.14, Time: 2023-11-19 00:03:29
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.14, Time: 2023-11-19 00:03:29
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.438, Time: 2023-11-19 00:03:29
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.68, Time: 2023-11-19 00:03:50
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.68, Time: 2023-11-19 00:03:50
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.444, Time: 2023-11-19 00:03:50
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 3.5, Old Odds: 2.04, New Odds: 1.819, Time: 2023-11-19 00:03:50
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.45, Time: 2023-11-19 00:04:13
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 3.5, Old Odds: 2.04, New Odds: 1.833, Time: 2023-11-19 00:04:13
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.689, Time: 2023-11-19 00:04:56
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.689, Time: 2023-11-19 00:04:56
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.16, Time: 2023-11-19 00:04:56
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.452, Time: 2023-11-19 00:04:56
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: H1 -0.5, Old Odds: 2.04, New Odds: 1.826, Time: 2023-11-19 00:05:20
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: H1 0.0, Old Odds: 1.591, New Odds: 1.409, Time: 2023-11-19 00:05:20
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: 1 0.0, Old Odds: 2.06, New Odds: 1.826, Time: 2023-11-19 00:05:20
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.694, Time: 2023-11-19 00:05:20
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.694, Time: 2023-11-19 00:05:20
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.17, Time: 2023-11-19 00:05:20
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.454, Time: 2023-11-19 00:05:20
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.699, Time: 2023-11-19 00:05:42
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.699, Time: 2023-11-19 00:05:42
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.18, Time: 2023-11-19 00:05:42
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.46, Time: 2023-11-19 00:05:42
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.465, Time: 2023-11-19 00:06:03
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.12, New Odds: 1.869, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.15, New Odds: 1.869, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.1, New Odds: 1.869, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.581, New Odds: 1.395, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.602, New Odds: 1.395, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.568, New Odds: 1.395, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.14, New Odds: 1.869, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.17, New Odds: 1.869, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.12, New Odds: 1.869, Time: 2023-11-19 00:13:01
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.917, New Odds: 1.709, Time: 2023-11-19 00:14:52
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.909, New Odds: 1.709, Time: 2023-11-19 00:14:52
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: H1 0.0, Old Odds: 1.591, New Odds: 1.416, Time: 2023-11-19 00:16:06
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: 1 0.0, Old Odds: 2.06, New Odds: 1.84, Time: 2023-11-19 00:16:06
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.77, New Odds: 2.46, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.12, New Odds: 1.833, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.15, New Odds: 1.833, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.1, New Odds: 1.833, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.581, New Odds: 1.371, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.602, New Odds: 1.371, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.568, New Odds: 1.371, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.14, New Odds: 1.833, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.17, New Odds: 1.833, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.12, New Odds: 1.833, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: H1 0.0, Old Odds: 1.591, New Odds: 1.423, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: 1 0.0, Old Odds: 2.06, New Odds: 1.847, Time: 2023-11-19 00:17:58
+Sport: Soccer, League: New Zealand - National Womens League, Match: Wellington Phoenix Reserves-vs-Central Football, Market: H1 0.0, Old Odds: 1.591, New Odds: 1.431, Time: 2023-11-19 00:18:20
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.59, New Odds: 2.25, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.68, New Odds: 2.25, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.77, New Odds: 2.25, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.54, New Odds: 2.25, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.925, New Odds: 1.714, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.98, New Odds: 1.714, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.12, New Odds: 1.714, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.15, New Odds: 1.714, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.1, New Odds: 1.714, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.01, New Odds: 1.714, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.97, New Odds: 1.714, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.396, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.427, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.483, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.581, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.602, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.568, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.5, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.456, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 0.0, Old Odds: 1.395, New Odds: 1.243, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.0, New Odds: 1.781, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.14, New Odds: 1.781, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.17, New Odds: 1.781, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.12, New Odds: 1.781, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.03, New Odds: 1.781, Time: 2023-11-19 00:21:42
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.59, New Odds: 2.28, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.68, New Odds: 2.28, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.77, New Odds: 2.28, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.54, New Odds: 2.28, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.925, New Odds: 1.724, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.98, New Odds: 1.724, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.12, New Odds: 1.724, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.15, New Odds: 1.724, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.1, New Odds: 1.724, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.01, New Odds: 1.724, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.97, New Odds: 1.724, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.0, New Odds: 1.735, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.14, New Odds: 1.735, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.17, New Odds: 1.735, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.12, New Odds: 1.735, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.03, New Odds: 1.735, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 1.97, New Odds: 1.735, Time: 2023-11-19 00:22:25
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: H2 2.0, Old Odds: 1.595, New Odds: 1.398, Time: 2023-11-19 00:30:05
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: H2 1.5, Old Odds: 2.03, New Odds: 1.806, Time: 2023-11-19 00:30:05
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.862, New Odds: 1.602, Time: 2023-11-19 00:30:05
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.869, New Odds: 1.602, Time: 2023-11-19 00:30:05
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 2.5, Old Odds: 2.32, New Odds: 2.04, Time: 2023-11-19 00:30:05
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.666, Time: 2023-11-19 00:30:05
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: H2 2.0, Old Odds: 1.595, New Odds: 1.409, Time: 2023-11-19 00:30:27
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: H2 1.5, Old Odds: 2.03, New Odds: 1.819, Time: 2023-11-19 00:30:27
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.862, New Odds: 1.617, Time: 2023-11-19 00:30:27
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.869, New Odds: 1.617, Time: 2023-11-19 00:30:27
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 2.5, Old Odds: 2.32, New Odds: 2.06, Time: 2023-11-19 00:30:27
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.862, New Odds: 1.636, Time: 2023-11-19 00:30:49
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.869, New Odds: 1.636, Time: 2023-11-19 00:30:49
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 2.5, Old Odds: 2.32, New Odds: 2.08, Time: 2023-11-19 00:30:49
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.862, New Odds: 1.671, Time: 2023-11-19 00:31:33
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.869, New Odds: 1.671, Time: 2023-11-19 00:31:33
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: U 3.0, Old Odds: 1.869, New Odds: 1.68, Time: 2023-11-19 00:31:55
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.59, New Odds: 2.31, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.68, New Odds: 2.31, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.77, New Odds: 2.31, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.925, New Odds: 1.729, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.98, New Odds: 1.729, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.12, New Odds: 1.729, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.15, New Odds: 1.729, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.1, New Odds: 1.729, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.01, New Odds: 1.729, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.97, New Odds: 1.729, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.0, New Odds: 1.746, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.14, New Odds: 1.746, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.17, New Odds: 1.746, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.12, New Odds: 1.746, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.03, New Odds: 1.746, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 1.97, New Odds: 1.746, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.952, New Odds: 1.645, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.33, New Odds: 2.0, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.952, New Odds: 1.735, Time: 2023-11-19 00:53:27
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 2.03, Time: 2023-11-19 00:57:48
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.08, New Odds: 2.77, Time: 2023-11-19 00:57:48
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.465, Time: 2023-11-19 01:00:04
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.465, Time: 2023-11-19 01:00:04
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.73, Time: 2023-11-19 01:00:04
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.73, Time: 2023-11-19 01:00:04
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.73, Time: 2023-11-19 01:00:04
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.73, Time: 2023-11-19 01:00:04
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.48, Time: 2023-11-19 01:00:27
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.74, Time: 2023-11-19 01:00:27
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.74, Time: 2023-11-19 01:00:27
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.74, Time: 2023-11-19 01:00:27
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.74, Time: 2023-11-19 01:00:27
+Sport: Soccer, League: New Zealand - National League, Match: Wellington Olympic-vs-Wellington Phoenix Academy, Market: O 4.0, Old Odds: 1.757, New Odds: 1.574, Time: 2023-11-19 01:01:59
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.485, Time: 2023-11-19 01:01:59
+Sport: Soccer, League: New Zealand - National League, Match: Wellington Olympic-vs-Wellington Phoenix Academy, Market: O 4.0, Old Odds: 1.757, New Odds: 1.581, Time: 2023-11-19 01:02:21
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.75, Time: 2023-11-19 01:02:45
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.75, Time: 2023-11-19 01:02:45
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.75, Time: 2023-11-19 01:02:45
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.75, Time: 2023-11-19 01:02:45
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.33, New Odds: 1.769, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.07, New Odds: 1.769, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.04, New Odds: 1.769, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.0, New Odds: 1.769, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.952, New Odds: 1.591, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.847, New Odds: 1.591, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.0, Old Odds: 2.34, New Odds: 1.98, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.0, Old Odds: 2.24, New Odds: 1.98, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.0, Old Odds: 2.2, New Odds: 1.98, Time: 2023-11-19 01:03:09
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.952, New Odds: 1.458, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.769, New Odds: 1.458, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.671, New Odds: 1.458, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.645, New Odds: 1.458, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.33, New Odds: 1.793, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.07, New Odds: 1.793, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.04, New Odds: 1.793, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.0, New Odds: 1.793, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.952, New Odds: 1.613, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.847, New Odds: 1.613, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 2.07, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.662, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: U 4.0, Old Odds: 1.751, New Odds: 1.555, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.675, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.467, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.467, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 2.02, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.76, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.76, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.76, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.76, Time: 2023-11-19 01:03:54
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.952, New Odds: 1.469, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.769, New Odds: 1.469, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.671, New Odds: 1.469, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.645, New Odds: 1.469, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.33, New Odds: 1.806, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.07, New Odds: 1.806, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.04, New Odds: 1.806, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.952, New Odds: 1.628, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.847, New Odds: 1.628, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.0, Old Odds: 2.34, New Odds: 2.01, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.0, Old Odds: 2.24, New Odds: 2.01, Time: 2023-11-19 01:04:39
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.471, Time: 2023-11-19 01:06:10
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.471, Time: 2023-11-19 01:06:10
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 2.04, Time: 2023-11-19 01:06:10
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.448, Time: 2023-11-19 01:08:03
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.448, Time: 2023-11-19 01:08:03
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 1.98, Time: 2023-11-19 01:08:03
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.22, New Odds: 1.98, Time: 2023-11-19 01:08:03
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.952, New Odds: 1.471, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.769, New Odds: 1.471, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.671, New Odds: 1.471, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.645, New Odds: 1.471, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.427, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.427, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.588, New Odds: 1.427, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 1.917, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.22, New Odds: 1.917, Time: 2023-11-19 01:10:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.452, Time: 2023-11-19 01:11:56
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.452, Time: 2023-11-19 01:11:56
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.77, Time: 2023-11-19 01:11:56
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.77, Time: 2023-11-19 01:11:56
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.77, Time: 2023-11-19 01:11:56
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.77, Time: 2023-11-19 01:11:56
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.432, Time: 2023-11-19 01:12:41
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.432, Time: 2023-11-19 01:12:41
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 1.925, Time: 2023-11-19 01:12:41
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.22, New Odds: 1.925, Time: 2023-11-19 01:12:41
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.909, New Odds: 1.704, Time: 2023-11-19 01:13:53
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.5, Old Odds: 1.917, New Odds: 1.704, Time: 2023-11-19 01:13:53
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: H2 1.0, Old Odds: 2.51, New Odds: 2.19, Time: 2023-11-19 01:13:53
+Sport: Soccer, League: New Zealand - National League, Match: Auckland City FC-vs-Christchurch United Fc, Market: U 4.0, Old Odds: 1.636, New Odds: 1.469, Time: 2023-11-19 01:13:53
+Sport: Soccer, League: New Zealand - National Womens League, Match: Canterbury United-vs-Eastern Suburbs Yellow AFC, Market: U 4.0, Old Odds: 1.917, New Odds: 1.719, Time: 2023-11-19 01:16:10
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.952, New Odds: 1.48, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.769, New Odds: 1.48, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.671, New Odds: 1.48, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.645, New Odds: 1.48, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.33, New Odds: 1.819, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.07, New Odds: 1.819, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.04, New Odds: 1.819, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.952, New Odds: 1.636, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.847, New Odds: 1.636, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.0, Old Odds: 2.34, New Odds: 2.03, Time: 2023-11-19 01:16:32
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.431, Time: 2023-11-19 01:25:14
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.431, Time: 2023-11-19 01:25:14
+Sport: Soccer, League: Mexico - Liga Premier, Match: Reboceros de La Piedad-vs-Inter De Queretaro, Market: H1 -2.0, Old Odds: 2.78, New Odds: 2.48, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 1.917, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.22, New Odds: 1.917, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.24, New Odds: 1.917, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.25, New Odds: 1.917, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.26, New Odds: 1.917, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.561, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.751, New Odds: 1.561, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.757, New Odds: 1.561, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.763, New Odds: 1.561, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.581, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.763, New Odds: 1.581, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.775, New Odds: 1.581, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.781, New Odds: 1.581, Time: 2023-11-19 01:26:00
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.434, Time: 2023-11-19 01:29:47
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.434, Time: 2023-11-19 01:29:47
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 1.934, Time: 2023-11-19 01:29:47
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.22, New Odds: 1.934, Time: 2023-11-19 01:29:47
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.436, Time: 2023-11-19 01:32:02
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.436, Time: 2023-11-19 01:32:02
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.78, Time: 2023-11-19 01:32:02
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.78, Time: 2023-11-19 01:32:02
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.78, Time: 2023-11-19 01:32:02
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.78, Time: 2023-11-19 01:32:02
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.0, Old Odds: 2.34, New Odds: 2.02, Time: 2023-11-19 01:32:02
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.952, New Odds: 1.478, Time: 2023-11-19 01:33:33
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.769, New Odds: 1.478, Time: 2023-11-19 01:33:33
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.671, New Odds: 1.478, Time: 2023-11-19 01:33:33
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.645, New Odds: 1.478, Time: 2023-11-19 01:33:33
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.446, Time: 2023-11-19 01:39:38
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.446, Time: 2023-11-19 01:39:38
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 1.952, Time: 2023-11-19 01:39:38
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.22, New Odds: 1.952, Time: 2023-11-19 01:39:38
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.79, Time: 2023-11-19 01:39:38
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.79, Time: 2023-11-19 01:39:38
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.79, Time: 2023-11-19 01:39:38
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.79, Time: 2023-11-19 01:39:38
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.59, New Odds: 2.32, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.68, New Odds: 2.32, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -1.0, Old Odds: 2.77, New Odds: 2.32, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.98, New Odds: 1.74, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.12, New Odds: 1.74, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.15, New Odds: 1.74, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.1, New Odds: 1.74, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 2.01, New Odds: 1.74, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: H1 -0.5, Old Odds: 1.97, New Odds: 1.74, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.0, New Odds: 1.751, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.14, New Odds: 1.751, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.17, New Odds: 1.751, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.12, New Odds: 1.751, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 2.03, New Odds: 1.751, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Honduras - Liga de Ascenso, Match: Juticalpa FC-vs-Atletico Junior, Market: 1 0.0, Old Odds: 1.97, New Odds: 1.751, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.33, New Odds: 1.813, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.07, New Odds: 1.813, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 3.5, Old Odds: 2.04, New Odds: 1.813, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.45, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.45, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 1.97, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.22, New Odds: 1.97, Time: 2023-11-19 01:41:10
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.952, New Odds: 1.465, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.769, New Odds: 1.465, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.671, New Odds: 1.465, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: H2 4.0, Old Odds: 1.645, New Odds: 1.465, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.952, New Odds: 1.632, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: U 4.5, Old Odds: 1.847, New Odds: 1.632, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.478, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: 1 0.0, Old Odds: 1.026, New Odds: 0, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: 1 0.0, Old Odds: 1.025, New Odds: 0, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: New Zealand - National Womens League, Match: Southern United-vs-Ellerslie, Market: 1 0.0, Old Odds: 1.024, New Odds: 0, Time: 2023-11-19 01:41:55
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.82, Time: 2023-11-19 01:43:49
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.82, Time: 2023-11-19 01:43:49
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.82, Time: 2023-11-19 01:43:49
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.82, Time: 2023-11-19 01:43:49
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.49, Time: 2023-11-19 01:44:12
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.83, Time: 2023-11-19 01:44:12
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.83, Time: 2023-11-19 01:44:12
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.24, New Odds: 2.83, Time: 2023-11-19 01:44:12
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.17, New Odds: 2.83, Time: 2023-11-19 01:44:12
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 1.909, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.22, New Odds: 1.909, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.24, New Odds: 1.909, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.25, New Odds: 1.909, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.26, New Odds: 1.909, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.558, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.751, New Odds: 1.558, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.757, New Odds: 1.558, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.763, New Odds: 1.558, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.29, Time: 2023-11-19 01:45:20
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 -0.5, Old Odds: 2.67, New Odds: 2.38, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 -0.5, Old Odds: 2.66, New Odds: 2.38, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 -0.5, Old Odds: 2.65, New Odds: 2.38, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 0.0, Old Odds: 1.869, New Odds: 1.649, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 0.0, Old Odds: 1.862, New Odds: 1.649, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 0.0, Old Odds: 1.854, New Odds: 1.649, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 0.0, Old Odds: 1.833, New Odds: 1.649, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.74, New Odds: 2.41, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.72, New Odds: 2.41, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.73, New Odds: 2.41, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.71, New Odds: 2.41, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.7, New Odds: 2.41, Time: 2023-11-19 01:45:43
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 -0.5, Old Odds: 2.67, New Odds: 2.35, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 -0.5, Old Odds: 2.66, New Odds: 2.35, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 -0.5, Old Odds: 2.65, New Odds: 2.35, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H1 -0.5, Old Odds: 2.64, New Odds: 2.35, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.59, New Odds: 2.31, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.62, New Odds: 2.31, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.66, New Odds: 2.37, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.74, New Odds: 2.37, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.65, New Odds: 2.37, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.72, New Odds: 2.37, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.73, New Odds: 2.37, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.71, New Odds: 2.37, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.7, New Odds: 2.37, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 1 0.0, Old Odds: 2.67, New Odds: 2.37, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.27, New Odds: 2.92, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: X 0.0, Old Odds: 3.26, New Odds: 2.92, Time: 2023-11-19 02:01:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 1.9, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.22, New Odds: 1.9, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.24, New Odds: 1.9, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.25, New Odds: 1.9, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.26, New Odds: 1.9, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.555, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.751, New Odds: 1.555, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.757, New Odds: 1.555, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.763, New Odds: 1.555, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.578, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.763, New Odds: 1.578, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.775, New Odds: 1.578, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.781, New Odds: 1.578, Time: 2023-11-19 02:14:22
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.56, New Odds: 2.3, Time: 2023-11-19 02:15:29
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.59, New Odds: 2.3, Time: 2023-11-19 02:15:29
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.62, New Odds: 2.3, Time: 2023-11-19 02:15:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.41, New Odds: 1.892, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.22, New Odds: 1.892, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.24, New Odds: 1.892, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.25, New Odds: 1.892, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -1.0, Old Odds: 2.26, New Odds: 1.892, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.552, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.751, New Odds: 1.552, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.757, New Odds: 1.552, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: H1 -0.5, Old Odds: 1.763, New Odds: 1.552, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.59, New Odds: 2.23, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 4.0, Old Odds: 2.5, New Odds: 2.23, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: O 3.5, Old Odds: 1.99, New Odds: 1.769, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.574, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.763, New Odds: 1.574, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.775, New Odds: 1.574, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: New Zealand - National League, Match: Eastern Suburbs AFC-vs-Cashmere Technical, Market: 1 0.0, Old Odds: 1.781, New Odds: 1.574, Time: 2023-11-19 02:26:29
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.56, New Odds: 2.29, Time: 2023-11-19 02:35:23
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.59, New Odds: 2.29, Time: 2023-11-19 02:35:23
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.62, New Odds: 2.29, Time: 2023-11-19 02:35:23
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 3.0, Old Odds: 2.55, New Odds: 2.29, Time: 2023-11-19 02:35:23
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 2.0, Time: 2023-11-19 02:38:16
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.16, New Odds: 2.82, Time: 2023-11-19 02:38:16
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 2.5, Old Odds: 1.98, New Odds: 1.781, Time: 2023-11-19 02:41:08
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.16, New Odds: 2.84, Time: 2023-11-19 02:41:08
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: O 2.5, Old Odds: 1.98, New Odds: 1.775, Time: 2023-11-19 02:56:27
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.18, New Odds: 1.917, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.08, New Odds: 2.67, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.01, New Odds: 2.67, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.02, New Odds: 2.67, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 2.97, New Odds: 2.67, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.05, New Odds: 2.67, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.16, New Odds: 2.67, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.12, New Odds: 2.67, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 -0.5, Old Odds: 2.93, New Odds: 2.61, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 -0.5, Old Odds: 2.94, New Odds: 2.61, Time: 2023-11-19 02:57:54
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.657, New Odds: 1.454, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.5, Old Odds: 1.636, New Odds: 1.454, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.18, New Odds: 1.934, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: U 2.0, Old Odds: 2.96, New Odds: 2.58, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: U 2.0, Old Odds: 2.98, New Odds: 2.58, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: U 2.0, Old Odds: 2.99, New Odds: 2.58, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: U 2.0, Old Odds: 3.0, New Odds: 2.58, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.08, New Odds: 2.75, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.16, New Odds: 2.75, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.12, New Odds: 2.75, Time: 2023-11-19 02:58:15
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.27, New Odds: 1.862, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.22, New Odds: 1.862, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.12, New Odds: 1.862, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.07, New Odds: 1.862, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.08, New Odds: 1.862, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.09, New Odds: 1.862, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.1, New Odds: 1.862, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 0.0, Old Odds: 2.18, New Odds: 1.862, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.08, New Odds: 2.65, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.01, New Odds: 2.65, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 2.96, New Odds: 2.65, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.02, New Odds: 2.65, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 2.97, New Odds: 2.65, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.05, New Odds: 2.65, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.16, New Odds: 2.65, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: 2 0.0, Old Odds: 3.12, New Odds: 2.65, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 -0.5, Old Odds: 2.89, New Odds: 2.59, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 -0.5, Old Odds: 2.93, New Odds: 2.59, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 -0.5, Old Odds: 2.94, New Odds: 2.59, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Costa Rica - Cup, Match: Deportivo Saprissa San Jose-vs-Liga Deportiva Alajuelense, Market: H2 -0.5, Old Odds: 2.88, New Odds: 2.59, Time: 2023-11-19 02:59:42
+Sport: Soccer, League: Guatemala - Liga Nacional, Match: CSD Xelaju MC-vs-CD Zacapa Tellioz, Market: U 2.0, Old Odds: 2.52, New Odds: 2.25, Time: 2023-11-19 03:08:44
+Sport: Soccer, League: Spain - Tercera Division Group 7, Match: CD Canillas-vs-Cd Galapagar, Market: H2 0.5, Old Odds: 1.763, New Odds: 1.546, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 7, Match: CD Canillas-vs-Cd Galapagar, Market: H2 0.0, Old Odds: 2.42, New Odds: 2.05, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 7, Match: CD Canillas-vs-Cd Galapagar, Market: H2 0.0, Old Odds: 2.54, New Odds: 2.05, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 7, Match: CD Canillas-vs-Cd Galapagar, Market: H2 0.0, Old Odds: 2.37, New Odds: 2.05, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 7, Match: CD Canillas-vs-Cd Galapagar, Market: 2 0.0, Old Odds: 3.29, New Odds: 2.81, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 7, Match: CD Canillas-vs-Cd Galapagar, Market: 2 0.0, Old Odds: 3.46, New Odds: 2.81, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 7, Match: CD Canillas-vs-Cd Galapagar, Market: 2 0.0, Old Odds: 3.21, New Odds: 2.81, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 2, Match: Aviles Stadium Cf-vs-Sporting Gijon B, Market: U 3.0, Old Odds: 1.54, New Odds: 1.378, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: H2 0.0, Old Odds: 3.18, New Odds: 2.79, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: H2 0.0, Old Odds: 3.22, New Odds: 2.79, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: H2 0.0, Old Odds: 3.25, New Odds: 2.79, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: H2 0.0, Old Odds: 3.3, New Odds: 2.79, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: H2 -0.5, Old Odds: 4.24, New Odds: 3.76, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: H2 -0.5, Old Odds: 4.28, New Odds: 3.76, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: H2 -0.5, Old Odds: 4.31, New Odds: 3.76, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: H2 -0.5, Old Odds: 4.37, New Odds: 3.76, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: 2 0.0, Old Odds: 4.3, New Odds: 3.81, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: 2 0.0, Old Odds: 4.34, New Odds: 3.81, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: 2 0.0, Old Odds: 4.38, New Odds: 3.81, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Portugal - Liga 2, Match: AVS-vs-Nacional da Madeira, Market: 2 0.0, Old Odds: 4.44, New Odds: 3.81, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.5, Old Odds: 2.5, New Odds: 2.24, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.5, Old Odds: 2.49, New Odds: 2.24, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.5, Old Odds: 2.5, New Odds: 2.22, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.5, Old Odds: 2.49, New Odds: 2.22, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 2.01, New Odds: 1.781, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 2.0, New Odds: 1.781, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 1.98, New Odds: 1.781, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 2.01, New Odds: 1.757, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 2.0, New Odds: 1.757, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 1.98, New Odds: 1.757, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 1.961, New Odds: 1.757, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 2.01, New Odds: 1.746, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 2.0, New Odds: 1.746, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 1.98, New Odds: 1.746, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: England - Women Super League, Match: Everton-vs-Bristol City, Market: H1 -1.0, Old Odds: 1.961, New Odds: 1.746, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: Germany - Oberliga Hamburg, Match: FC Alsterbruder-vs-SV Rugenbergen, Market: U 4.0, Old Odds: 1.892, New Odds: 1.694, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Germany - Oberliga Hamburg, Match: FC Alsterbruder-vs-SV Rugenbergen, Market: U 4.0, Old Odds: 1.934, New Odds: 1.694, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Germany - Oberliga Hamburg, Match: FC Alsterbruder-vs-SV Rugenbergen, Market: U 3.5, Old Odds: 2.34, New Odds: 2.09, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.854, New Odds: 1.657, Time: 2023-11-19 07:40:34
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.854, New Odds: 1.649, Time: 2023-11-19 07:41:26
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.84, New Odds: 1.649, Time: 2023-11-19 07:41:26
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.854, New Odds: 1.636, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.84, New Odds: 1.636, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.819, New Odds: 1.636, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.854, New Odds: 1.621, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.84, New Odds: 1.621, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.813, New Odds: 1.621, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 1.0, Old Odds: 1.819, New Odds: 1.621, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 0.5, Old Odds: 2.47, New Odds: 2.22, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 0.5, Old Odds: 2.47, New Odds: 2.19, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: Spain - Segunda RFEF Group 4, Match: Sevilla FC II-vs-Mar Menor CF, Market: H2 0.5, Old Odds: 2.45, New Odds: 2.19, Time: 2023-11-19 07:45:03
+Sport: Soccer, League: Spain - Segunda RFEF Group 5, Match: CD Guadalajara-vs-Illescas, Market: U 2.0, Old Odds: 2.91, New Odds: 2.56, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 5, Match: CD Guadalajara-vs-Illescas, Market: U 2.0, Old Odds: 2.91, New Odds: 2.52, Time: 2023-11-19 07:40:09
+Sport: Soccer, League: Spain - Segunda RFEF Group 5, Match: CD Guadalajara-vs-Illescas, Market: U 2.0, Old Odds: 2.91, New Odds: 2.5, Time: 2023-11-19 07:40:34
+Sport: Soccer, League: Spain - Segunda RFEF Group 1, Match: RS Gimnastica-vs-Zamora CF, Market: H1 1.0, Old Odds: 1.628, New Odds: 1.448, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 1, Match: RS Gimnastica-vs-Zamora CF, Market: U 2.5, Old Odds: 1.645, New Odds: 1.478, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 1, Match: RS Gimnastica-vs-Zamora CF, Market: U 2.5, Old Odds: 1.719, New Odds: 1.478, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 1, Match: RS Gimnastica-vs-Zamora CF, Market: U 2.0, Old Odds: 2.22, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 1, Match: RS Gimnastica-vs-Zamora CF, Market: U 2.0, Old Odds: 2.38, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 1, Match: RS Gimnastica-vs-Zamora CF, Market: X 0.0, Old Odds: 3.63, New Odds: 3.26, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 1, Match: RS Gimnastica-vs-Zamora CF, Market: X 0.0, Old Odds: 3.74, New Odds: 3.26, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: CE Europa-vs-Saguntino, Market: H1 -0.5, Old Odds: 2.19, New Odds: 1.934, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: CE Europa-vs-Saguntino, Market: H1 0.0, Old Odds: 1.555, New Odds: 1.384, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: CE Europa-vs-Saguntino, Market: 1 0.0, Old Odds: 2.21, New Odds: 1.934, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: SD Formentera-vs-Valencia-Mestalla, Market: U 2.0, Old Odds: 1.9, New Odds: 1.709, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: SD Formentera-vs-Valencia-Mestalla, Market: U 2.0, Old Odds: 2.03, New Odds: 1.709, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: SD Formentera-vs-Valencia-Mestalla, Market: U 2.0, Old Odds: 1.961, New Odds: 1.709, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: SD Formentera-vs-Valencia-Mestalla, Market: U 2.0, Old Odds: 2.03, New Odds: 1.724, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: SD Formentera-vs-Valencia-Mestalla, Market: U 2.0, Old Odds: 1.961, New Odds: 1.724, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: SD Formentera-vs-Valencia-Mestalla, Market: U 1.5, Old Odds: 2.7, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: SD Formentera-vs-Valencia-Mestalla, Market: U 1.5, Old Odds: 2.61, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Segunda RFEF Group 3, Match: SD Formentera-vs-Valencia-Mestalla, Market: U 1.5, Old Odds: 2.7, New Odds: 2.35, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: Netherlands - Eredivisie Women, Match: Ajax Amsterdam-vs-Twente, Market: H1 0.0, Old Odds: 2.21, New Odds: 1.98, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Germany - Oberliga Bayern Sud, Match: Garching-vs-Erlbach, Market: H2 -1.0, Old Odds: 2.35, New Odds: 2.09, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Denmark - Elitedivisionen Women, Match: Dbk Fortuna Hjoerring-vs-Broendby IF, Market: H1 0.0, Old Odds: 1.917, New Odds: 1.704, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Denmark - Elitedivisionen Women, Match: Dbk Fortuna Hjoerring-vs-Broendby IF, Market: 1 0.0, Old Odds: 2.59, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hungary - NB 1 Women, Match: BSC 1924 Kft-vs-Szent Mihaly SE, Market: H2 -1.0, Old Odds: 1.826, New Odds: 1.606, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Hungary - NB 1 Women, Match: BSC 1924 Kft-vs-Szent Mihaly SE, Market: H2 -1.5, Old Odds: 2.22, New Odds: 1.99, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Hungary - NB 1 Women, Match: Szekszardi Ufc-vs-ETO FC Gyor, Market: U 4.5, Old Odds: 1.925, New Odds: 1.729, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hungary - NB 1 Women, Match: Szekszardi Ufc-vs-ETO FC Gyor, Market: U 4.0, Old Odds: 2.5, New Odds: 2.15, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: H1 0.0, Old Odds: 2.72, New Odds: 2.29, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: H1 0.0, Old Odds: 2.76, New Odds: 2.29, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: H1 0.0, Old Odds: 2.68, New Odds: 2.29, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: H1 0.0, Old Odds: 2.63, New Odds: 2.29, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: H1 0.0, Old Odds: 2.58, New Odds: 2.29, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: H1 0.5, Old Odds: 1.8, New Odds: 1.602, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: 1 0.0, Old Odds: 3.92, New Odds: 3.3, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: 1 0.0, Old Odds: 3.96, New Odds: 3.3, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: 1 0.0, Old Odds: 3.82, New Odds: 3.3, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: 1 0.0, Old Odds: 3.75, New Odds: 3.3, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie C Group C, Match: Monopoli-vs-Benevento, Market: 1 0.0, Old Odds: 3.68, New Odds: 3.3, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - HKFA 1. Division, Match: Citizen AA-vs-Hoi King, Market: O 3.5, Old Odds: 2.19, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - HKFA 1. Division, Match: Citizen AA-vs-Hoi King, Market: O 3.0, Old Odds: 1.74, New Odds: 1.473, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - HKFA 1. Division, Match: Yuen Long FC-vs-Eastern District, Market: H2 1.0, Old Odds: 1.884, New Odds: 1.632, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - HKFA 1. Division, Match: Yuen Long FC-vs-Eastern District, Market: H2 1.0, Old Odds: 1.892, New Odds: 1.632, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - HKFA 1. Division, Match: Yuen Long FC-vs-Eastern District, Market: H2 1.0, Old Odds: 1.884, New Odds: 1.684, Time: 2023-11-19 07:35:55
+Sport: Soccer, League: Hong Kong - HKFA 1. Division, Match: Yuen Long FC-vs-Eastern District, Market: H2 1.0, Old Odds: 1.892, New Odds: 1.684, Time: 2023-11-19 07:35:55
+Sport: Soccer, League: Hong Kong - HKFA 1. Division, Match: Yuen Long FC-vs-Eastern District, Market: H2 0.5, Old Odds: 2.34, New Odds: 2.08, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 2.07, New Odds: 1.689, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 2.01, New Odds: 1.689, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.952, New Odds: 1.689, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.943, New Odds: 1.689, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.884, New Odds: 1.689, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 2.07, New Odds: 1.662, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 2.01, New Odds: 1.662, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.952, New Odds: 1.662, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.943, New Odds: 1.662, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.662, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.884, New Odds: 1.662, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.854, New Odds: 1.662, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.847, New Odds: 1.662, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 2.07, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 2.01, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.952, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.943, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.806, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.813, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.819, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.833, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.884, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.84, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.854, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.847, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.729, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.735, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.757, New Odds: 1.549, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 2.07, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 2.01, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.952, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.943, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.862, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.819, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.833, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.884, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.84, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.854, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -0.5, Old Odds: 1.847, New Odds: 1.632, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 2.09, New Odds: 1.704, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 2.03, New Odds: 1.704, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.952, New Odds: 1.704, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 2.09, New Odds: 1.675, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 2.03, New Odds: 1.675, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.952, New Odds: 1.675, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.877, New Odds: 1.675, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.675, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.884, New Odds: 1.675, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 2.09, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 2.03, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.952, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.877, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.819, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.833, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.884, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.84, New Odds: 1.636, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 2.09, New Odds: 1.645, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 2.03, New Odds: 1.645, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.952, New Odds: 1.645, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.877, New Odds: 1.645, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.862, New Odds: 1.645, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.833, New Odds: 1.645, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.884, New Odds: 1.645, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: 1 0.0, Old Odds: 1.84, New Odds: 1.645, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: Hong Kong - Sapling Cup, Match: Sham Shui Po-vs-Southern District RSA, Market: H1 3.0, Old Odds: 1.714, New Odds: 1.523, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - Sapling Cup, Match: Sham Shui Po-vs-Southern District RSA, Market: H1 3.0, Old Odds: 1.704, New Odds: 1.523, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - Sapling Cup, Match: Sham Shui Po-vs-Southern District RSA, Market: H1 3.0, Old Odds: 1.699, New Odds: 1.523, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - Sapling Cup, Match: Sham Shui Po-vs-Southern District RSA, Market: H1 3.0, Old Odds: 1.694, New Odds: 1.523, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Hong Kong - Sapling Cup, Match: Sham Shui Po-vs-Southern District RSA, Market: H1 3.0, Old Odds: 1.714, New Odds: 1.54, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: Poland - 3rd Liga Group 2, Match: Pogon Szczecin II-vs-Sks Unia Swarzedz, Market: H2 1.0, Old Odds: 1.606, New Odds: 1.431, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Poland - 3rd Liga Group 2, Match: Pogon Szczecin II-vs-Sks Unia Swarzedz, Market: H2 0.5, Old Odds: 2.04, New Odds: 1.833, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Poland - 3rd Liga Group 2, Match: Pogon Szczecin II-vs-Sks Unia Swarzedz, Market: 2 0.0, Old Odds: 3.83, New Odds: 3.3, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Spain - U19 League, Match: Santiago de Compostela CF-vs-CD Choco, Market: H1 -1.0, Old Odds: 2.29, New Odds: 2.01, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: England - Championship Women, Match: Watford-vs-Sheffield United, Market: O 3.0, Old Odds: 2.3, New Odds: 1.934, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: England - Championship Women, Match: Watford-vs-Sheffield United, Market: O 2.5, Old Odds: 1.763, New Odds: 1.564, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Greece - Super League U19, Match: Volos-vs-Panserraikos, Market: O 3.0, Old Odds: 2.21, New Odds: 1.917, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: OC Kerkennah-vs-ES Zarzis, Market: H2 -1.0, Old Odds: 2.44, New Odds: 2.16, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: OC Kerkennah-vs-ES Zarzis, Market: H2 -1.0, Old Odds: 2.41, New Odds: 2.16, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.5, Old Odds: 1.653, New Odds: 1.401, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.5, Old Odds: 1.625, New Odds: 1.401, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.5, Old Odds: 1.609, New Odds: 1.401, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.5, Old Odds: 1.591, New Odds: 1.401, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.5, Old Odds: 1.571, New Odds: 1.401, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.5, Old Odds: 1.561, New Odds: 1.401, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.0, Old Odds: 2.24, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.0, Old Odds: 2.18, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.0, Old Odds: 2.15, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.0, Old Odds: 2.11, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.0, Old Odds: 2.07, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.0, Old Odds: 2.04, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.0, Old Odds: 2.02, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 2.0, Old Odds: 2.0, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.93, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.84, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.77, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.67, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.58, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.53, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.44, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.4, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.26, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: X 0.0, Old Odds: 3.16, New Odds: 2.67, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: H2 0.5, Old Odds: 1.709, New Odds: 1.497, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: H2 0.5, Old Odds: 1.694, New Odds: 1.497, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: H2 0.5, Old Odds: 1.675, New Odds: 1.497, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: H2 0.0, Old Odds: 2.29, New Odds: 1.833, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: H2 0.0, Old Odds: 2.24, New Odds: 1.833, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: H2 0.0, Old Odds: 2.19, New Odds: 1.833, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: H2 0.0, Old Odds: 2.15, New Odds: 1.833, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: 2 0.0, Old Odds: 2.96, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: 2 0.0, Old Odds: 2.91, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: 2 0.0, Old Odds: 2.84, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group A, Match: Avc Vogherese 1919-vs-Asd Alcione Milano, Market: 2 0.0, Old Odds: 2.77, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group B, Match: ASD Varesina Calcio-vs-Club Milano Ssd, Market: 2 0.0, Old Odds: 4.01, New Odds: 3.59, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group B, Match: ASD Varesina Calcio-vs-Club Milano Ssd, Market: 2 0.0, Old Odds: 4.01, New Odds: 3.5, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Italy - Serie D Group B, Match: Asd Calcio Brusaporto-vs-AC Legnano 1913, Market: H2 1.0, Old Odds: 1.561, New Odds: 1.404, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Italy - Serie D Group B, Match: Asd Calcio Brusaporto-vs-AC Legnano 1913, Market: H2 0.5, Old Odds: 2.03, New Odds: 1.826, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Italy - Serie D Group B, Match: Asd Calcio Brusaporto-vs-AC Legnano 1913, Market: 2 0.0, Old Odds: 4.14, New Odds: 3.6, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group B, Match: Asd Calcio Brusaporto-vs-AC Legnano 1913, Market: 2 0.0, Old Odds: 4.14, New Odds: 3.55, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Italy - Serie D Group B, Match: Asd Calcio Brusaporto-vs-AC Legnano 1913, Market: 2 0.0, Old Odds: 4.0, New Odds: 3.55, Time: 2023-11-19 07:38:29
+Sport: Soccer, League: Italy - Serie D Group C, Match: A.C. Mestre-vs-Portogruaro Calcio, Market: H2 0.0, Old Odds: 2.09, New Odds: 1.787, Time: 2023-11-19 07:40:34
+Sport: Soccer, League: Italy - Serie D Group C, Match: A.C. Mestre-vs-Portogruaro Calcio, Market: 2 0.0, Old Odds: 2.95, New Odds: 2.44, Time: 2023-11-19 07:40:34
+Sport: Soccer, League: Italy - Serie D Group C, Match: Union Clodiense Chioggia SSD-vs-ACD Campodarsego Calcio, Market: H1 -1.0, Old Odds: 2.4, New Odds: 1.97, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group C, Match: Union Clodiense Chioggia SSD-vs-ACD Campodarsego Calcio, Market: H1 -1.0, Old Odds: 2.27, New Odds: 1.97, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group C, Match: Union Clodiense Chioggia SSD-vs-ACD Campodarsego Calcio, Market: H1 -0.5, Old Odds: 1.719, New Odds: 1.512, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group C, Match: Union Clodiense Chioggia SSD-vs-ACD Campodarsego Calcio, Market: 1 0.0, Old Odds: 1.735, New Odds: 1.531, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group C, Match: Usd Breno-vs-Mori S.Stefano, Market: 2 0.0, Old Odds: 3.88, New Odds: 3.42, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group D, Match: US Pistoiese-vs-Borgo San Donnino, Market: H2 1.0, Old Odds: 1.98, New Odds: 1.769, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group D, Match: US Pistoiese-vs-Borgo San Donnino, Market: H2 0.5, Old Odds: 2.55, New Odds: 2.27, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group I, Match: Citta Di Sant Agata-vs-Asd Portici 1906, Market: H2 1.0, Old Odds: 1.854, New Odds: 1.641, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group H, Match: Asd Team Altamura-vs-US Citta Di Fasano, Market: H2 0.0, Old Odds: 2.94, New Odds: 2.49, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group H, Match: Asd Team Altamura-vs-US Citta Di Fasano, Market: 2 0.0, Old Odds: 3.94, New Odds: 3.42, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Utiel-vs-Silla CF, Market: H1 -1.0, Old Odds: 2.85, New Odds: 2.53, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 2, Match: Luarca Cf-vs-Condal Club, Market: 1 0.0, Old Odds: 2.2, New Odds: 1.97, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 -0.5, Old Odds: 2.37, New Odds: 1.813, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 -0.5, Old Odds: 2.38, New Odds: 1.813, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 -0.5, Old Odds: 2.25, New Odds: 1.813, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 -0.5, Old Odds: 2.22, New Odds: 1.813, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 -0.5, Old Odds: 2.06, New Odds: 1.813, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 -0.5, Old Odds: 2.03, New Odds: 1.813, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 0.0, Old Odds: 1.714, New Odds: 1.255, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 0.0, Old Odds: 1.68, New Odds: 1.255, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 0.0, Old Odds: 1.602, New Odds: 1.255, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 0.0, Old Odds: 1.584, New Odds: 1.255, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 0.0, Old Odds: 1.487, New Odds: 1.255, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 0.0, Old Odds: 1.467, New Odds: 1.255, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 0.0, Old Odds: 1.418, New Odds: 1.255, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: 1 0.0, Old Odds: 2.42, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: 1 0.0, Old Odds: 2.4, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: 1 0.0, Old Odds: 2.32, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: 1 0.0, Old Odds: 2.27, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: 1 0.0, Old Odds: 2.24, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: 1 0.0, Old Odds: 2.08, New Odds: 1.869, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: CD Becerril-vs-SD Ponferradina B, Market: H1 -1.0, Old Odds: 2.89, New Odds: 2.45, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 3, Match: CD Naval-vs-SD Atletico Albericia, Market: H2 0.0, Old Odds: 1.595, New Odds: 1.337, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 3, Match: CD Naval-vs-SD Atletico Albericia, Market: H2 -0.5, Old Odds: 2.24, New Odds: 1.826, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 3, Match: CD Naval-vs-SD Atletico Albericia, Market: 2 0.0, Old Odds: 2.26, New Odds: 1.826, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 2.15, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 2.07, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 2.0, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 1.869, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 1.862, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 1.833, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 1.775, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 1.735, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 0.0, Old Odds: 1.714, New Odds: 1.462, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: 2 0.0, Old Odds: 3.06, New Odds: 2.06, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: 2 0.0, Old Odds: 2.98, New Odds: 2.06, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: 2 0.0, Old Odds: 2.78, New Odds: 2.06, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: 2 0.0, Old Odds: 2.68, New Odds: 2.06, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: 2 0.0, Old Odds: 2.62, New Odds: 2.06, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: 2 0.0, Old Odds: 2.53, New Odds: 2.06, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: 2 0.0, Old Odds: 2.46, New Odds: 2.06, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: H1 -2.0, Old Odds: 2.3, New Odds: 1.854, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: H1 -2.0, Old Odds: 2.14, New Odds: 1.854, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: H1 -2.0, Old Odds: 2.3, New Odds: 2.03, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: H2 2.0, Old Odds: 1.869, New Odds: 1.671, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: H2 2.0, Old Odds: 1.862, New Odds: 1.671, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: H1 -1.5, Old Odds: 1.769, New Odds: 1.507, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: O 3.0, Old Odds: 2.08, New Odds: 1.84, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.8, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.806, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.819, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.84, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.847, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.862, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.892, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.884, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 3.0, Old Odds: 1.854, New Odds: 1.613, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 2.5, Old Odds: 2.29, New Odds: 2.05, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 2.5, Old Odds: 2.3, New Odds: 2.05, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 2.5, Old Odds: 2.31, New Odds: 2.05, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 14, Match: CD Don Benito-vs-Cd Don Alvaro, Market: U 2.5, Old Odds: 2.35, New Odds: 2.05, Time: 2023-11-19 07:46:09
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 -0.5, Old Odds: 2.81, New Odds: 2.05, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 -0.5, Old Odds: 2.61, New Odds: 2.05, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 -0.5, Old Odds: 2.56, New Odds: 2.05, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 -0.5, Old Odds: 2.48, New Odds: 2.05, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: SD Almazan-vs-Cultural Deportiva Leonesa B, Market: H2 -0.5, Old Odds: 2.41, New Odds: 2.05, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Vietnam - Womens National League, Match: Phong Phu Ha Nam-vs-TNG Thai Nguyen, Market: H1 0.0, Old Odds: 2.15, New Odds: 1.787, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Vietnam - Womens National League, Match: Phong Phu Ha Nam-vs-TNG Thai Nguyen, Market: H1 0.5, Old Odds: 1.574, New Odds: 1.389, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Vietnam - Womens National League, Match: Phong Phu Ha Nam-vs-TNG Thai Nguyen, Market: U 2.5, Old Odds: 1.68, New Odds: 1.476, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Vietnam - Womens National League, Match: Phong Phu Ha Nam-vs-TNG Thai Nguyen, Market: U 2.5, Old Odds: 1.689, New Odds: 1.476, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Vietnam - Womens National League, Match: Phong Phu Ha Nam-vs-TNG Thai Nguyen, Market: U 2.0, Old Odds: 2.32, New Odds: 1.9, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Vietnam - Womens National League, Match: Phong Phu Ha Nam-vs-TNG Thai Nguyen, Market: U 2.0, Old Odds: 2.34, New Odds: 1.9, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Vietnam - Womens National League, Match: Phong Phu Ha Nam-vs-TNG Thai Nguyen, Market: 1 0.0, Old Odds: 2.94, New Odds: 2.55, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.89, New Odds: 2.35, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.69, New Odds: 2.35, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.63, New Odds: 2.35, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.73, New Odds: 2.35, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.64, New Odds: 2.35, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.89, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.56, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.57, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.69, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.59, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.63, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.73, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.61, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.64, New Odds: 2.28, Time: 2023-11-19 07:40:39
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.89, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.56, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.57, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.69, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.59, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.63, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.73, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.61, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.64, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.39, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.41, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.37, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.4, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.35, New Odds: 2.11, Time: 2023-11-19 07:42:13
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.89, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.56, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.57, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.69, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.59, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.63, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.73, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.61, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: China - Super League Women, Match: Chongqing Yongchuan-vs-Sichuan Wfc, Market: H1 -1.0, Old Odds: 2.64, New Odds: 2.2, Time: 2023-11-19 07:46:04
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: H1 -0.5, Old Odds: 2.79, New Odds: 2.51, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: O 2.0, Old Odds: 2.1, New Odds: 1.757, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: O 2.0, Old Odds: 2.05, New Odds: 1.757, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: O 2.0, Old Odds: 2.03, New Odds: 1.757, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: 1 0.0, Old Odds: 2.84, New Odds: 2.54, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: 1 0.0, Old Odds: 2.86, New Odds: 2.54, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: 1 0.0, Old Odds: 2.85, New Odds: 2.54, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: 1 0.0, Old Odds: 2.83, New Odds: 2.54, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 18, Match: CP Villarrobledo-vs-CD Quintanar Del Rey, Market: H1 0.0, Old Odds: 1.854, New Odds: 1.666, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 18, Match: CP Villarrobledo-vs-CD Quintanar Del Rey, Market: 1 0.0, Old Odds: 2.67, New Odds: 2.4, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 5, Match: Reus FC Reddis-vs-Cfj Mollerussa, Market: H1 -0.5, Old Odds: 2.13, New Odds: 1.833, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 5, Match: Reus FC Reddis-vs-Cfj Mollerussa, Market: H1 -0.5, Old Odds: 2.1, New Odds: 1.833, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 5, Match: Reus FC Reddis-vs-Cfj Mollerussa, Market: H1 0.0, Old Odds: 1.512, New Odds: 1.341, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 5, Match: Reus FC Reddis-vs-Cfj Mollerussa, Market: H1 0.0, Old Odds: 1.497, New Odds: 1.341, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 5, Match: Reus FC Reddis-vs-Cfj Mollerussa, Market: 1 0.0, Old Odds: 2.14, New Odds: 1.833, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 5, Match: Reus FC Reddis-vs-Cfj Mollerussa, Market: 1 0.0, Old Odds: 2.12, New Odds: 1.833, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: H2 0.0, Old Odds: 2.03, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: H2 0.0, Old Odds: 1.826, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: H2 0.0, Old Odds: 1.8, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: H2 -0.5, Old Odds: 2.79, New Odds: 2.31, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: H2 -0.5, Old Odds: 2.6, New Odds: 2.31, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: H2 -0.5, Old Odds: 2.57, New Odds: 2.31, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: 2 0.0, Old Odds: 2.86, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: 2 0.0, Old Odds: 2.66, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Cd Estradense-vs-UD Somozas, Market: 2 0.0, Old Odds: 2.63, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Csd Arzua-vs-Rapido de Bouzas, Market: O 2.5, Old Odds: 2.14, New Odds: 1.925, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: Csd Arzua-vs-Rapido de Bouzas, Market: O 2.0, Old Odds: 1.609, New Odds: 1.448, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 0.0, Old Odds: 3.11, New Odds: 2.26, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 0.0, Old Odds: 2.84, New Odds: 2.26, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 0.0, Old Odds: 2.67, New Odds: 2.26, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 0.5, Old Odds: 1.925, New Odds: 1.529, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 0.5, Old Odds: 1.813, New Odds: 1.529, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 0.5, Old Odds: 1.746, New Odds: 1.529, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 1.0, Old Odds: 1.429, New Odds: 1.125, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 1.0, Old Odds: 1.364, New Odds: 1.125, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: H1 1.0, Old Odds: 1.324, New Odds: 1.125, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 1, Match: UD Paiosaco-vs-RC Celta de Vigo C, Market: 1 0.0, Old Odds: 4.25, New Odds: 3.6, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: Atletico Bembibre-vs-Atletico Astorga FC, Market: H1 0.0, Old Odds: 2.55, New Odds: 1.564, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: Atletico Bembibre-vs-Atletico Astorga FC, Market: H1 0.0, Old Odds: 2.53, New Odds: 1.564, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: Atletico Bembibre-vs-Atletico Astorga FC, Market: H1 0.0, Old Odds: 2.17, New Odds: 1.564, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: Atletico Bembibre-vs-Atletico Astorga FC, Market: H1 0.0, Old Odds: 2.06, New Odds: 1.564, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: Atletico Bembibre-vs-Atletico Astorga FC, Market: 1 0.0, Old Odds: 3.52, New Odds: 2.14, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: Atletico Bembibre-vs-Atletico Astorga FC, Market: 1 0.0, Old Odds: 3.51, New Odds: 2.14, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: Atletico Bembibre-vs-Atletico Astorga FC, Market: 1 0.0, Old Odds: 3.02, New Odds: 2.14, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 8, Match: Atletico Bembibre-vs-Atletico Astorga FC, Market: 1 0.0, Old Odds: 2.9, New Odds: 2.14, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 6, Match: CD Burriana-vs-CD Roda, Market: O 2.5, Old Odds: 2.59, New Odds: 2.33, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: France - U19 League, Match: Auxerre-vs-Metz, Market: U 3.0, Old Odds: 1.925, New Odds: 1.689, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: France - U19 League, Match: RC Lens-vs-Caen, Market: U 3.0, Old Odds: 1.641, New Odds: 1.456, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: France - U19 League, Match: RC Lens-vs-Caen, Market: U 2.5, Old Odds: 2.07, New Odds: 1.862, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: France - U19 League, Match: Stade Rennais FC-vs-Chateauroux, Market: U 3.0, Old Odds: 1.98, New Odds: 1.729, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Indonesia - Liga 2, Match: Sriwijaya FC-vs-PSDS Deli Serdang, Market: H1 -1.0, Old Odds: 1.847, New Odds: 1.591, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Senegal - Ligue 1, Match: ASC Diambars-vs-Casa Sport, Market: H2 0.5, Old Odds: 1.595, New Odds: 1.434, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Senegal - Ligue 1, Match: ASC Diambars-vs-Casa Sport, Market: H2 0.0, Old Odds: 2.37, New Odds: 1.943, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Senegal - Ligue 1, Match: ASC Diambars-vs-Casa Sport, Market: 2 0.0, Old Odds: 3.43, New Odds: 2.79, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Spain - Tercera Division Group 10, Match: Xerez CD-vs-Xerez Deportivo Fc, Market: H1 -1.0, Old Odds: 2.9, New Odds: 2.58, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Indonesia - Liga 2, Match: Pskc Kota Cimahi-vs-Nusantara United FC, Market: H1 0.0, Old Odds: 2.6, New Odds: 2.24, Time: 2023-11-19 07:42:14
+Sport: Soccer, League: Indonesia - Liga 2, Match: Pskc Kota Cimahi-vs-Nusantara United FC, Market: 1 0.0, Old Odds: 3.57, New Odds: 3.06, Time: 2023-11-19 07:42:14
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 2.53, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 2.47, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 2.37, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 2.29, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 2.26, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 2.18, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 2.13, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 2.01, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 1.917, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.5, Old Odds: 1.8, New Odds: 1.613, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: U 1.5, Old Odds: 2.64, New Odds: 2.36, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: 2 0.0, Old Odds: 4.41, New Odds: 3.46, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: 2 0.0, Old Odds: 4.09, New Odds: 3.46, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: 2 0.0, Old Odds: 4.11, New Odds: 3.46, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.0, Old Odds: 3.02, New Odds: 2.44, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Tunisia - League 2, Match: Stade Gabesien-vs-AS Gabes, Market: H2 0.0, Old Odds: 2.94, New Odds: 2.44, Time: 2023-11-19 07:35:31
+Sport: Soccer, League: Italy - Serie D Group H, Match: S.S.D. Casarano Calcio-vs-Santa Maria Cilento, Market: H2 1.0, Old Odds: 2.18, New Odds: 1.925, Time: 2023-11-19 07:43:45
+Sport: Soccer, League: Brazil - Serie B, Match: Guarani-vs-ABC, Market: H2 1.0, Old Odds: 2.62, New Odds: 2.35, Time: 2023-11-19 07:46:35

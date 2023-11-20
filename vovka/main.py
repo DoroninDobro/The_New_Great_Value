@@ -3,7 +3,7 @@
 # задача 3: нужно добавить разницу времени, а не только время появления события
 
 #TODO: different percents for different odds
-#TODO: another sports
+#TODO: another sports check carefully (why no bets?)
 #TODO: add odds after 10, 30 and 120 mins
 #TODO: find matches and markets in 1win
 #TODO: check odds for Value
@@ -27,7 +27,7 @@ async def main():
     date_ = datetime.today().strftime('%Y-%m-%d')
     ps = Ps3838Com()
     await ps.setup()  # Инициализируем сессию здесь
-    tracker = OddsTracker(significance_percent=10, time_span_minutes=15)
+    tracker = OddsTracker(significance_percent=5, time_span_minutes=15)
     while True:
         try:
             matches = await ps.get_prematch()
@@ -36,11 +36,12 @@ async def main():
             tracker.check_for_significant_drops()
             tracker.remove_stale_data()
 
-            sleep_time = 30
+            sleep_time = 20
             await asyncio.sleep(sleep_time)
         except Exception as e:
-            logging.error(f"{e}")
-            await asyncio.sleep(120)
+            await asyncio.sleep(20)
+            continue
+#            logging.error(f"{e}")
 
 if __name__ == "__main__":
     logging.basicConfig(

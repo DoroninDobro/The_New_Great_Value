@@ -21,12 +21,12 @@ class Ps3838Com:
     ALLOWED_SPORTS = [
             #!'Basketball',
             #!'E Sports',
-            'Football',
-            #!'Handball',
-            #!'Hockey',
+            #!'Football',
+            'Handball',
+            'Hockey',
             'Rugby Union',
-            'Soccer',
-            #!'Tennis',
+            #'Soccer',
+            'Tennis',
             'Volleyball'
                       ]
 
@@ -131,7 +131,7 @@ class Ps3838Com:
             raise
         except IndexError:
             # raise
-            logging.info(f"{match[0]} IndexError: list index out of range")
+            #logging.info(f"{match[0]} IndexError: list index out of range")
             return
 
         # Handicaps

@@ -61,6 +61,7 @@ class OddsTracker:
                 match_info = self.get_match_info(market_id)
                 formatted_drops = [(drop_time.strftime('%Y-%m-%d %H:%M:%S'), old_odds, new_odds) for drop_time, old_odds, new_odds in drops]
                 #print(f"Significant drops for {match_info['match']} in {match_info['league']}: {formatted_drops}")
+                print('SUCCESS!')
                 self.save_drops_to_file(match_info, market_type, line, formatted_drops, 'significant_drops.txt')
 
     def save_drops_to_file(self, match_info, market_type, line, drops, file_path):
